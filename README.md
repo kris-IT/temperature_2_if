@@ -10,3 +10,4 @@
 Комментарии:
 nextInt - функция для чтения числовых значений определенного типа данных (XYZ)
 дважды условный оператор if
+Беги : https://github.com/kris-IT/temperature_2_if/blob/main/temperature.java
